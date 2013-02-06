@@ -1,0 +1,10 @@
+{% extends "AcmeDemoBundle::layout.html.twig" %}
+
+{% block title "Hello " ~ name %}
+
+{% block content %}
+    {% include "AcmeDemoBundle:Demo:embedded.html.twig" %}
+    <h1>Hello {{ name }}!</h1>
+{% endblock %}
+
+{% set code = code(_self) %}

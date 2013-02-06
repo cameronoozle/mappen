@@ -1,0 +1,2 @@
+[2013-01-16 17:20:27] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /demo/hello/Cameron" (uncaught exception) at C:\xampp\htdocs\Symfony\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\RouterListener.php line 92 [] []
+[2013-02-04 20:09:09] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /" (uncaught exception) at C:\xampp\htdocs\Symfony\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\RouterListener.php line 92 [] []
